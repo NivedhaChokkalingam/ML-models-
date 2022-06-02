@@ -1,10 +1,10 @@
 # ML-models-
 
 >Compared the performance of the 5 different classifiers: 
-       *Naïve Base, Decision Tree
-       *Random forest
-       *Linear discriminate analysis
-       *Quadratic discriminate analysis
+       Naïve Base, Decision Tree,
+       Random forest,
+       Linear discriminate analysis,
+       Quadratic discriminate analysis,
 
 >Used 5-fold cross-validation starting from having only one feature and increasing the number of features to
 2(the first two features), then three (the first three features), then four (the first four features)until all 45 features are used.
